@@ -16,6 +16,10 @@
 
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/assemblydisk/adnx02kosaku/adnxcu02/)!
 
+### [基板図](https://github.com/bit-trade-one/ADNXCU02_Nixie_tube_Controller_Kit/tree/master/Dimensions)
+
+### [回路図](https://github.com/bit-trade-one/ADNXCU02_Nixie_tube_Controller_Kit/tree/master/Schematics)
+
 ## 製品仕様
 
 [ CONTROL UNIT (制御回路)]　ニキシー管の表示コントロールを行います  
